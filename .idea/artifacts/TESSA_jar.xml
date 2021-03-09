@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TESSA:jar">
+    <output-path>$PROJECT_DIR$/build/new/artifacts/TESSA_jar</output-path>
+    <root id="archive" name="TESSA.jar">
+      <element id="module-output" name="TESSA" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resource/libraries/voice-cmu-slt-hsmm-5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resource/libraries/marytts-lang-en-5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resource/libraries/marytts-client-5.2-jar-with-dependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resource/libraries/marytts-runtime-5.2-jar-with-dependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resource/libraries/sphinx4-core-5prealpha-20160628.232526-10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resource/libraries/sphinx4-data-5prealpha-20160628.232535-10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
